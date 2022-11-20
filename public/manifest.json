@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Buscar CEP - Brasil",
+  "name": "Digite um CEP e encontre informações de logradouros, bairros, localidades e estados.",
   "icons": [
     {
       "src": "favicon.ico",
