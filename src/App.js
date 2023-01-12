@@ -59,7 +59,7 @@ catch{
   )}
 <div className="containerFooter">
 
-  <span>Desenvolvido com React</span>
+  <span>Desenvolvido por Walter Rodrigues</span>
 
 </div>
 
